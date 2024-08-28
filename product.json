@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Earbuds",
+    "price": 3,
+    "description": "High-quality wireless earbuds with noise cancellation and long battery life.",
+    "image": "Earbuds.webp"
+  },
+  {
+    "id": 2,
+    "name": "Smartwatch",
+    "price": 10,
+    "description": "Feature-packed smartwatch with fitness tracking, heart rate monitoring, and GPS.",
+    "image": "Smartwatch.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "price": 6,
+    "description": "Portable Bluetooth speaker with deep bass and water-resistant design.",
+    "image": "Speaker.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Gaming Mouse",
+    "price": 4,
+    "description": "Ergonomic gaming mouse with customizable RGB lighting and precision sensor.",
+    "image": "mousw.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Laptop Stand",
+    "price": 29,
+    "description": "Adjustable laptop stand with sturdy aluminum construction for better posture.",
+    "image": "laptop stand.jpg"
+  },
+  {
+    "id": 6,
+    "name": "4K Monitor",
+    "price": 24,
+    "description": "Ultra HD 4K monitor with vibrant colors and wide viewing angles.",
+    "image": "monitor.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Fitness Tracker",
+    "price": 6,
+    "description": "Slim fitness tracker with sleep tracking, heart rate monitoring, and water resistance.",
+    "image": "fitness.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mechanical Keyboard",
+    "price": 7,
+    "description": "Durable mechanical keyboard with tactile switches and customizable keycaps.",
+    "image": "keyboard.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Noise Cancelling Headphones",
+    "price": 7,
+    "description": "Over-ear noise-cancelling headphones with superior sound quality and long battery life.",
+    "image": "headphones.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Portable Power Bank",
+    "price": 249,
+    "description": "Compact power bank with fast charging capabilities and multiple USB ports.",
+    "image": "powerbank.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Smart Home Hub",
+    "price": 119,
+    "description": "Smart home hub for controlling all your connected devices from a single app.",
+    "image": "home.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Wireless Charging Pad",
+    "price": 19,
+    "description": "Sleek wireless charging pad compatible with all Qi-enabled devices.",
+    "image": "fastcharging.jpg"
+  }
+]
